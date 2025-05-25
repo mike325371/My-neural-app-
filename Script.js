@@ -1,3 +1,3 @@
 function trainModel() {
-  alert("Training module started...");
+    alert("Training module started...");
 }
